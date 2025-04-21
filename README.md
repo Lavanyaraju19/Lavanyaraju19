@@ -28,5 +28,7 @@
 - 🔗 [LinkedIn](https://linkedin.com/in/lavanya-raju19)
 
 
----
+## 📌 Author
+[Lavanya J](https://github.com/Lavanyaraju19)
+
 
