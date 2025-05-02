@@ -7,10 +7,10 @@
 
 ### 🛠️ Projects
 
-| Project | Description | Tech Stack | GitHub Link |
-|--------|-------------|------------|-------------|
-| **CI/CD with Jenkins & GitLab** | Automated pipeline for daily integrations and deployments | Jenkins, GitLab CI, GitHub | [devops-ci-cd-demo] |
-| **Infrastructure Automation on AWS** | Provisioned VPC, EC2, IAM using Terraform | AWS, Terraform | [terraform-aws-project] |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **CI/CD with Jenkins & GitLab** | Automated pipeline for daily integrations and deployments | Jenkins, GitLab CI, GitHub |
+| **Infrastructure Automation on AWS** | Provisioned VPC, EC2, IAM using Terraform | AWS, Terraform  |
 | **ELK Stack Logging** | Centralized log management and visualization | Elasticsearch, Logstash, Kibana |
 | **Prometheus Monitoring Framework** | Monitored EC2 health with alerts | Prometheus, Grafana|
 
