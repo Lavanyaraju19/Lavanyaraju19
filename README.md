@@ -9,10 +9,10 @@
 
 | Project | Description | Tech Stack | GitHub Link |
 |--------|-------------|------------|-------------|
-| **CI/CD with Jenkins & GitLab** | Automated pipeline for daily integrations and deployments | Jenkins, GitLab CI, GitHub | [devops-ci-cd-demo](https://github.com/Lavanyaraju19/devops-ci-cd-demo) |
-| **Infrastructure Automation on AWS** | Provisioned VPC, EC2, IAM using Terraform | AWS, Terraform | [terraform-aws-project](https://github.com/Lavanyaraju19/terraform-aws-project) |
-| **ELK Stack Logging** | Centralized log management and visualization | Elasticsearch, Logstash, Kibana | _Coming soon_ |
-| **Prometheus Monitoring Framework** | Monitored EC2 health with alerts | Prometheus, Grafana | _Coming soon_ |
+| **CI/CD with Jenkins & GitLab** | Automated pipeline for daily integrations and deployments | Jenkins, GitLab CI, GitHub | [devops-ci-cd-demo] |
+| **Infrastructure Automation on AWS** | Provisioned VPC, EC2, IAM using Terraform | AWS, Terraform | [terraform-aws-project] |
+| **ELK Stack Logging** | Centralized log management and visualization | Elasticsearch, Logstash, Kibana |
+| **Prometheus Monitoring Framework** | Monitored EC2 health with alerts | Prometheus, Grafana|
 
 ---
 
