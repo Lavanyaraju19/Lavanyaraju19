@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lavanya J
 
-** Senior Software Engineering ** | Multi-Cloud SRE | Agentic Systems & Platform  
+ Senior Software Engineering  | Multi-Cloud SRE | Agentic Systems & Platform  
 📍 Bengaluru, India | 🌍 Open to remote USD-paid roles
 
 ---
@@ -74,7 +74,7 @@ Check out my pinned repositories below for production infrastructure, monitoring
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/lavanya-raju19](https://linkedin.com/in/lavanya-raju19)
-- **Email:** t03008605@gmail.com
+- **Email:** lavanyaj365@gmail.com
 - **Timezone:** IST (UTC+5:30)
 
 **Available for:** Remote FTE roles, hourly contract work, consulting
