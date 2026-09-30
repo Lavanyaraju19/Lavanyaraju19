@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lavanya J
 
-**Software Engineering Lead** | Multi-Cloud SRE | Agentic Systems & Platform  
+** Senior Software Engineering ** | Multi-Cloud SRE | Agentic Systems & Platform  
 📍 Bengaluru, India | 🌍 Open to remote USD-paid roles
 
 ---
